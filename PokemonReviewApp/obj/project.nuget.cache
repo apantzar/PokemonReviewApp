@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "G3FTS5iYtHpetoU4J3qYuM/zBDBl3L0r0OGA7dZ1UTF/mu1P4a5VNv1YQyRWszEFr7rV2RJf1ZkduPNI4QJZHw==",
+  "success": true,
+  "projectFilePath": "/Users/anastasiospantzartzis/Projects/PokemonReviewApp/PokemonReviewApp/PokemonReviewApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/anastasiospantzartzis/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/anastasiospantzartzis/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/anastasiospantzartzis/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/anastasiospantzartzis/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/anastasiospantzartzis/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/anastasiospantzartzis/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
